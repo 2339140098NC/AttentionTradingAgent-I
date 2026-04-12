@@ -1,1 +1,6 @@
 .env
+__pycache__/
+*.pyc
+report/
+signal_*.json
+latest_signal.json
