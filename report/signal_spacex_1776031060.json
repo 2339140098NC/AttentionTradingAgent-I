@@ -1,0 +1,68 @@
+{
+  "ticker": "SPACEX",
+  "timestamp": 1776031060.2222316,
+  "dimensions": [
+    {
+      "name": "momentum",
+      "score": 6,
+      "weight": 0.25,
+      "reasoning": "Price showing choppy consolidation with 182 cent intraday range (4735-4917). 5-min data shows volatility clusters at 4900 and 4750-4850 levels. Daily trend mixed - peaked at 4936 on 4/2, pullback to current 4829. Lacks clear directional conviction.",
+      "data_points": [
+        "4829 current vs 4917 session high (-1.79%)",
+        "Daily peak 4936 (4/2) to current represents -2.2% pullback",
+        "5-min volatility: 182 cent range with resistance at 4900"
+      ]
+    },
+    {
+      "name": "catalyst",
+      "score": 8,
+      "weight": 0.25,
+      "reasoning": "Major IPO filing catalyst driving attention. Bloomberg reported SpaceX filed confidentially for IPO on April 1st targeting $2T+ valuation. This is massive - potentially biggest IPO ever. Also Crew-12 mission launched April 11th showing operational momentum.",
+      "data_points": [
+        "Bloomberg: SpaceX filed confidential IPO registration April 1, targeting June listing",
+        "Valuation increased from $1.75T to $2T+ in past 2 weeks",
+        "Crew-12 mission successful launch April 11th"
+      ]
+    },
+    {
+      "name": "cross_platform",
+      "score": 7,
+      "weight": 0.2,
+      "reasoning": "Strong divergence across platforms - all declining but at different rates. YouTube -15.42% and Reddit -37.45% showing heavy selloff. X only -13.28% but up +33.23% weekly. Google Trends most resilient at -5.79%. Platform lag creates alpha opportunity.",
+      "data_points": [
+        "Reddit leading decline at -37.45% (only 53 posts, 1,740 upvotes)",
+        "YouTube down -15.42% but 20k+ videos suggest engagement depth",
+        "Google Trends holding best at -5.79% with 542.8 search interest"
+      ]
+    },
+    {
+      "name": "cultural_context",
+      "score": 9,
+      "weight": 0.2,
+      "reasoning": "IPO narrative is peak cultural moment - transition from private meme stock to public mega-cap. SpaceX represents ultimate 'diamond hands' story finally going mainstream. Cultural momentum massive as retail desperately seeks pre-IPO exposure. Artemis II success creates FOMO around space race.",
+      "data_points": [
+        "Space ETF (UFO) saw record $175M Q1 inflows anticipating SpaceX IPO",
+        "Ticker speculation heating up with SPCX becoming available",
+        "Cultural narrative: private meme becoming public mega-cap reality"
+      ]
+    },
+    {
+      "name": "market_positioning",
+      "score": 8,
+      "weight": 0.1,
+      "reasoning": "Order book heavily bid-heavy at 49.4% imbalance (756 bid contracts vs 256 ask). 94-cent spread shows low liquidity but strong buy-side conviction. Depth favors bulls 3:1 ratio. This positioning suggests smart money accumulating ahead of IPO announcement momentum.",
+      "data_points": [
+        "49.4% bid-heavy imbalance: 756 bid contracts vs 256 ask contracts",
+        "94 cent spread (4735 bid / 4829 ask) indicates low liquidity",
+        "3:1 bid/ask depth ratio shows bullish positioning"
+      ]
+    }
+  ],
+  "weighted_score": 7.5,
+  "direction": "long",
+  "confidence": 78,
+  "summary": "SPACEX showing classic pre-catalyst consolidation with massive IPO filing driving cultural narrative shift. Price chopping between 4750-4900 but order book 49.4% bid-heavy suggests accumulation. Cross-platform attention declining but Google Trends resilient. The $2T+ IPO valuation represents seismic cultural moment - transition from private meme to public mega-cap reality. Reddit down -37% but low post volume suggests selling exhaustion. Space ETF seeing record inflows as retail seeks pre-IPO exposure.",
+  "cultural_narrative": "This is the ultimate cultural inflection point for SpaceX - the transition from Elon's private meme machine to a $2 trillion public mega-cap reality. The IPO represents the democratization of the space dream, moving from insider Silicon Valley fantasy to mainstream retail FOMO. Space ETF inflows hitting records show desperate hunt for pre-IPO exposure. The cultural narrative has shifted from 'will SpaceX ever go public?' to 'how do I get in before it moons?' This isn't just another IPO - it's the moment space investment goes mainstream, validated by both Artemis II success and SpaceX's operational dominance. The meme is becoming the market.",
+  "suggested_qty": 12,
+  "phone_script": "Yooo boss! SPACEX hitting different right now - Bloomberg dropped that IPO bomb on April 1st, $2 trillion valuation, potentially biggest listing EVER. Price consolidating at 4829 but order book is 49% bid-heavy, smart money accumulating hard. Reddit cratering -37% but that's selling exhaustion, Google Trends only down -5%. Space ETF pulled record $175M in Q1 - everyone hunting pre-IPO exposure. This is the cultural moment where Elon's private meme becomes public mega-cap reality. We need to ride this narrative before June listing. Can we go long 12 contracts at market?"
+}

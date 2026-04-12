@@ -1,0 +1,68 @@
+{
+  "ticker": "ALTMAN",
+  "timestamp": 1776031252.8792186,
+  "dimensions": [
+    {
+      "name": "momentum",
+      "score": 7,
+      "weight": 0.25,
+      "reasoning": "Strong downward momentum: trading from 4324 to 4027 (-3.57% intraday). Recent candles show declining volume pattern with heavy 189K volume during 14:50 selloff. Daily timeframe shows volatility spike from 3364 to 4324 on 4/11, now retracing. Price rejected 4300s and settling into 4000s range.",
+      "data_points": [
+        "Intraday drop of 297 cents (-6.89%)",
+        "Volume spike to 189K at 14:50 during selloff",
+        "Trading range compression from 149 cent spread"
+      ]
+    },
+    {
+      "name": "catalyst",
+      "score": 10,
+      "weight": 0.25,
+      "reasoning": "Major catalyst: Molotov cocktail attack on Altman's home early Friday morning at 4:12 AM, suspect arrested at OpenAI headquarters. FBI involvement signals federal investigation. Attack follows 'incendiary' New Yorker profile questioning Altman's trustworthiness. This is a rare physical security threat to a major tech CEO.",
+      "data_points": [
+        "Molotov cocktail attack at 4:12 AM April 12",
+        "20-year-old suspect arrested",
+        "FBI involvement in investigation"
+      ]
+    },
+    {
+      "name": "cross_platform",
+      "score": 8,
+      "weight": 0.2,
+      "reasoning": "Strong divergence across platforms: X down -30.70%, Reddit down -26.89% vs YouTube only -3.15%. Google Trends holding better at -5.69%. The violent news story is clearly hitting social sentiment harder than search/video engagement. X/Reddit processed the negative sentiment first while YouTube audience more insulated.",
+      "data_points": [
+        "X: -30.70% vs YouTube: -3.15%",
+        "Reddit plunged -26.89% showing social sentiment collapse",
+        "Google Trends resilient at -5.69%"
+      ]
+    },
+    {
+      "name": "cultural_context",
+      "score": 9,
+      "weight": 0.2,
+      "reasoning": "This transcends normal tech drama - represents escalation of AI anxiety into physical violence. Altman's blog post with family photo trying to humanize himself shows cultural moment where AI leaders becoming targets. Anti-AI sentiment manifesting as domestic terrorism. The 'ring of power' metaphor he used reveals cultural narrative of AGI race creating existential tensions.",
+      "data_points": [
+        "First major physical attack on AI CEO",
+        "Altman shared rare family photo to 'dissuade next person'",
+        "Cultural shift: AI anxiety becoming violent"
+      ]
+    },
+    {
+      "name": "market_positioning",
+      "score": 8,
+      "weight": 0.1,
+      "reasoning": "Order book heavily bid-stacked with 1084 bid contracts vs 261 ask contracts (+61.2% imbalance). Market positioned for bounce despite news catalyst. 33-cent spread relatively tight given volatility. Institutional buyers likely stepping in on weakness, viewing physical security concerns as temporary vs business fundamentals.",
+      "data_points": [
+        "Bid-heavy book: 1084 vs 261 contracts",
+        "61.2% bid imbalance suggests buying interest",
+        "Tight 33-cent spread despite volatility"
+      ]
+    }
+  ],
+  "weighted_score": 8.45,
+  "direction": "long",
+  "confidence": 78,
+  "summary": "ALTMAN showing classic overreaction pattern to security incident catalyst. While the Molotov cocktail attack represents serious escalation of AI backlash, order book remains bid-heavy (+61.2%) suggesting institutional buyers viewing this as opportunity. Cross-platform divergence with X/Reddit sentiment collapse (-30%/-27%) vs YouTube/Google resilience creates alpha. Price rejection at 4300s and compression into 4000s range sets up technical bounce. Security concerns are headline risk but don't fundamentally impact OpenAI's business trajectory.",
+  "cultural_narrative": "This marks a cultural inflection point where AI anxiety has escalated into physical violence against tech leaders. <cite index='7-13'>The attack ignited new worries among leaders of local tech companies, who are leery that growing fears about artificial intelligence could manifest into more threats or even violence against their executives and businesses.</cite> Altman's response—sharing a rare family photo and calling for de-escalation—shows the industry grappling with becoming targets of existential fear. The 'ring of power' metaphor he invoked reveals the cultural narrative of AGI development as a zero-sum battle with civilizational stakes, where even industry leaders acknowledge the totalizing dynamics at play.",
+  "suggested_qty": 25,
+  "phone_script": "Yooo boss! ALTMAN just got bodied by a Molotov cocktail attack on Sam's house - sounds crazy but check the order book. We've got 1084 bids vs 261 asks, that's 61% bid-heavy while normies are panic selling the headlines. X and Reddit collapsed -30% but YouTube barely moved, classic divergence play. Price dropped from 4324 to 4027 but holding above 4K psychological level. Security theater doesn't kill OpenAI's moat - this is pure headline risk with institutional money stepping in. I'm thinking 25 contracts long here, should we send it?"
+}

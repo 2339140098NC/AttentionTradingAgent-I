@@ -1,0 +1,69 @@
+{
+  "ticker": "OPENAI",
+  "timestamp": 1776029905.2861834,
+  "dimensions": [
+    {
+      "name": "momentum",
+      "score": 3,
+      "weight": 0.25,
+      "reasoning": "Clear downward trend from 5124 to 5050 (-1.44%) over last 8 hours with consistent selling pressure. Price broke below 5074 support level multiple times. Multiple -29 to -74 cent drops in candles with high volume spikes (230K, 252K, 242K). Daily timeframe shows recent weakness from 5253 peak on Apr 10th.",
+      "data_points": [
+        "Price declined 1.44% from 5124 to 5050",
+        "Volume spikes on selling pressure: 230K, 252K, 242K contracts",
+        "Recent high of 5253 on Apr 10th broken"
+      ]
+    },
+    {
+      "name": "catalyst",
+      "score": 6,
+      "weight": 0.25,
+      "reasoning": "Multiple significant but mixed catalysts: GPT-5.3 Instant Mini release (positive), massive $122B funding round (positive), but offset by concerning developments including firebomb attack on CEO home, Pentagon deal controversy, Sora shutdown, failed Disney partnership, and upcoming trial. Recent cybersecurity product launch provides some positive momentum.",
+      "data_points": [
+        "GPT-5.3 Instant Mini release today",
+        "$122B funding round valuing company at $852B",
+        "CEO home firebombed by PauseAI member",
+        "Sora shutdown killed $1B Disney deal"
+      ]
+    },
+    {
+      "name": "cross_platform",
+      "score": 4,
+      "weight": 0.2,
+      "reasoning": "All platforms declining but at different rates creating divergence opportunities. X showing worst performance (-16.69% daily) vs Google Trends only -1.41%. YouTube down -13.48%, Reddit -8.33%. The lag in Google Trends suggests mainstream awareness hasn't caught up to social sentiment decline yet.",
+      "data_points": [
+        "X leading decline at -16.69% daily",
+        "Google Trends lagging at only -1.41% decline",
+        "Reddit showing moderate -8.33% decline"
+      ]
+    },
+    {
+      "name": "cultural_context",
+      "score": 7,
+      "weight": 0.2,
+      "reasoning": "OpenAI is in a complex cultural moment - simultaneously raising record capital while facing serious reputation challenges. The firebombing incident creates genuine safety concerns and anti-AI sentiment. Sora failure represents overpromise/underdeliver narrative. Pentagon deal feeds 'OpenAI selling out' narrative. Yet still culturally dominant with ChatGPT integration expanding. This is peak controversy cycle before potential recovery or further decline.",
+      "data_points": [
+        "Violence against CEO shows extreme polarization",
+        "Sora shutdown represents broken promises narrative",
+        "Pentagon deal feeds militarization concerns"
+      ]
+    },
+    {
+      "name": "market_positioning",
+      "score": 8,
+      "weight": 0.1,
+      "reasoning": "Strong bid-heavy order book with 54.3% imbalance favoring buyers. 921 bid contracts vs 273 ask contracts shows institutional support despite price decline. 24-cent spread is tight for this volatility level. This positioning suggests smart money accumulating on weakness while retail sentiment turns negative.",
+      "data_points": [
+        "54.3% bid-heavy order book imbalance",
+        "921 bid contracts vs 273 ask contracts",
+        "24-cent spread despite volatility"
+      ]
+    }
+  ],
+  "weighted_score": 5.25,
+  "direction": "long",
+  "confidence": 72,
+  "summary": "OPENAI presents a classic contrarian opportunity with strong bid support (54.3% imbalance) despite negative sentiment catalysts. <cite index=\"1-1,1-21\">Recent GPT-5.3 Instant Mini release</cite> and <cite index=\"10-17\">new $100/month Pro tier launch</cite> show product momentum continues despite controversies. The <cite index=\"2-28\">firebombing of CEO Sam Altman's home</cite> and <cite index=\"7-18,7-19\">Sora shutdown costing $15M daily vs $2.1M revenue</cite> create negative headlines, but <cite index=\"4-1\">$122B funding at $852B valuation</cite> provides substantial runway. Cross-platform divergence with Google Trends (-1.41%) lagging social platforms (-16.69% X, -13.48% YouTube) suggests mainstream sentiment hasn't fully caught up to current negativity.",
+  "cultural_narrative": "OpenAI is experiencing peak cultural polarization - simultaneously the most valuable AI company and most controversial. <cite index=\"2-1,2-28\">The firebombing incident represents the extreme end of AI backlash sentiment</cite>, while <cite index=\"7-12,7-13\">Pentagon deal controversy after Anthropic's refusal</cite> feeds 'OpenAI selling out' narratives. Yet <cite index=\"9-14\">ChatGPT maintains fastest adoption rate ever</cite> and product integration continues expanding. This feels like the cultural trough before either capitulation or recovery - the violence represents peak fear/hate cycle. Meme potential exists in the contrast between record funding and operational chaos. The 'too big to fail' vs 'moral hazard' debate is crystallizing around OpenAI specifically.",
+  "suggested_qty": 15,
+  "phone_script": "Yooo boss! OPENAI is getting absolutely bodied in the headlines - CEO got firebombed, Sora got nuked, Pentagon deal backlash is real. But check this: 54% bid-heavy order book, smart money is LOADING up while retail panics. Fresh GPT-5.3 launch today, $122B in the bank, and Google Trends barely down while social media is melting. This is textbook buy-the-fear setup. The cultural hate cycle is peaking which historically means we're near the bottom. I'm thinking 15 contracts long - you in?"
+}

@@ -1,0 +1,68 @@
+{
+  "ticker": "OPENAI",
+  "timestamp": 1776030516.5616763,
+  "dimensions": [
+    {
+      "name": "momentum",
+      "score": 3,
+      "weight": 0.25,
+      "reasoning": "Weak downward momentum across all timeframes. Price dropped from 5124 to 5050 (-1.44%) intraday with sustained selling pressure. Daily trend shows consistent decline from recent highs around 5250s. Volume declining through the session signals lack of buying conviction.",
+      "data_points": [
+        "Price down -1.44% intraday (5124→5050)",
+        "Daily candles show 5-day decline from 5253 peak",
+        "Volume decreasing: 230k→51k→60k showing selling exhaustion"
+      ]
+    },
+    {
+      "name": "catalyst",
+      "score": 8,
+      "weight": 0.25,
+      "reasoning": "Major negative catalyst with Sam Altman's home attacked by Molotov cocktail on April 11th, creating significant headline risk. Attack occurred early Friday morning, suspect arrested after also threatening OpenAI headquarters. This represents serious security/governance concerns for the company.",
+      "data_points": [
+        "Molotov cocktail attack on Sam Altman's home April 11th",
+        "20-year-old suspect arrested, also threatened to burn down OpenAI HQ",
+        "Attack timing correlates with recent price weakness"
+      ]
+    },
+    {
+      "name": "cross_platform",
+      "score": 6,
+      "weight": 0.2,
+      "reasoning": "Strong negative divergence across platforms with Twitter leading the decline at -16.69% vs Google Trends only -1.41%. YouTube down -13.48%, Reddit -8.33%. This suggests the story is spreading from social platforms first before hitting mainstream search, creating potential for further downside momentum.",
+      "data_points": [
+        "X/Twitter down -16.69% (leading decline)",
+        "YouTube -13.48%, Reddit -8.33%",
+        "Google Trends only -1.41% (lagging indicator suggests more downside)"
+      ]
+    },
+    {
+      "name": "cultural_context",
+      "score": 7,
+      "weight": 0.2,
+      "reasoning": "Attack represents crystallization of growing AI anxiety and anti-tech sentiment. Attacker was reportedly from PauseAI Discord community, highlighting organized resistance to AI development. Recent New Yorker profile questioned Altman's trustworthiness, creating narrative backdrop. This isn't just random violence but ideological opposition to AI progress.",
+      "data_points": [
+        "Attacker linked to PauseAI movement",
+        "Recent New Yorker investigation questioned Altman's character",
+        "OpenAI published 'New Deal for AI' policy document just days before attack"
+      ]
+    },
+    {
+      "name": "market_positioning",
+      "score": 4,
+      "weight": 0.1,
+      "reasoning": "Order book shows 54.3% bid-heavy imbalance suggesting trapped bulls rather than smart money accumulation. Large bid-ask spread of 24 cents indicates uncertainty. Shallow ask side (273 contracts vs 921 bid contracts) could amplify moves but current positioning suggests more downside before buyers step in.",
+      "data_points": [
+        "54.3% bid-heavy book (921 vs 273 contracts)",
+        "24-cent bid-ask spread showing uncertainty",
+        "Current price at 5050 sitting on bid, asks starting at 5074"
+      ]
+    }
+  ],
+  "weighted_score": 5.75,
+  "direction": "short",
+  "confidence": 75,
+  "summary": "<cite index=\"12-1,14-1\">The physical attack on Sam Altman's home with a Molotov cocktail on April 11th</cite> creates a major negative catalyst for OPENAI attention flows. <cite index=\"3-10,17-5\">The 20-year-old attacker was reportedly linked to the PauseAI movement and also threatened to burn down OpenAI headquarters</cite>, signaling organized ideological opposition to AI development. Technical momentum is weak with price declining 1.44% intraday and cross-platform data showing Twitter leading the decline at -16.69% while Google Trends lags at only -1.41%, suggesting the negative sentiment has room to spread further. The 54.3% bid-heavy order book indicates trapped bulls rather than value buyers, supporting a short bias.",
+  "cultural_narrative": "This attack represents the violent escalation of growing AI anxiety in society. <cite index=\"20-15\">Recent polling shows 80% of Americans are concerned about AI, with 55% believing it does more harm than good</cite>, and <cite index=\"20-16\">Altman's company is at the heart of growing public sense that tech companies are driving profound change faster than governments can govern it</cite>. <cite index=\"3-1,3-2\">The attacker being a member of the PauseAI Discord server who had posted about AI driving humanity</cite> shows this isn't random violence but ideological warfare. The cultural narrative has shifted from 'AI will save us' to 'AI leaders need physical protection from their own technology's implications.' This creates sustained negative sentiment that will likely persist beyond the immediate news cycle.",
+  "suggested_qty": 150,
+  "phone_script": "Yooo boss! Someone literally threw a Molotov cocktail at Sam Altman's house Friday morning - this is not a drill. The attacker was from the PauseAI movement and Twitter's already down 17% while Google Trends is only down 1%, so this story's got legs. Price dropped from 5124 to 5050 with weak momentum and the order book is 54% bid-heavy but those are trapped longs, not smart money. Cultural narrative just shifted from 'AI is cool' to 'AI CEOs need bodyguards.' I'm seeing 150 contracts short here - can we get this trade on before the mainstream media cycle fully kicks in?"
+}
