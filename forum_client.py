@@ -90,7 +90,8 @@ class ForumClient:
             body_str = json.dumps(json_body, separators=(",", ":"))
 
         # Build full path with query string for signature
-        full_path = path
+        # Forum API requires /v1 prefix in signature path
+        full_path = "/v1" + path
         if params:
             full_path += "?" + urlencode(params)
 
